@@ -1,0 +1,7 @@
+[
+    {
+        "name": "Microsoft",
+        "description": "A Vale-compatible implementation of the Microsoft Writing Style Guide.",
+        "feed": "https://github.com/errata-ai/Microsoft/releases.atom"
+    }
+]
