@@ -2,6 +2,7 @@
     {
         "name": "Microsoft",
         "description": "A Vale-compatible implementation of the Microsoft Writing Style Guide.",
+        "homepage": "https://github.com/errata-ai/Microsoft",
         "feed": "https://github.com/errata-ai/Microsoft/releases.atom"
     }
 ]
