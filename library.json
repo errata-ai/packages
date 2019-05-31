@@ -5,5 +5,12 @@
         "homepage": "https://github.com/errata-ai/Microsoft",
         "feed": "https://github.com/errata-ai/Microsoft/releases.atom",
         "author": "jdkato"
+    },
+    {
+        "name": "proselint",
+        "description": "A Vale-compatible implementation of Python's proselint linter.",
+        "homepage": "https://github.com/errata-ai/proselint",
+        "feed": "https://github.com/errata-ai/proselint/releases.atom",
+        "author": "jdkato"
     }
 ]
