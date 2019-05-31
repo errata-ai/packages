@@ -12,5 +12,12 @@
         "homepage": "https://github.com/errata-ai/proselint",
         "feed": "https://github.com/errata-ai/proselint/releases.atom",
         "author": "jdkato"
+    },
+    {
+        "name": "write-good",
+        "description": "A Vale-compatible implementation of the write-good linter.",
+        "homepage": "https://github.com/errata-ai/write-good",
+        "feed": "https://github.com/errata-ai/write-good/releases.atom",
+        "author": "jdkato"
     }
 ]
