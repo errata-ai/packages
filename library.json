@@ -8,16 +8,23 @@
     },
     {
         "name": "proselint",
-        "description": "A Vale-compatible implementation of Python's proselint linter.",
+        "description": "proselint places the world’s greatest writers and editors by your side, where they whisper suggestions on how to improve your prose.",
         "homepage": "https://github.com/errata-ai/proselint",
         "feed": "https://github.com/errata-ai/proselint/releases.atom",
         "author": "jdkato"
     },
     {
         "name": "write-good",
-        "description": "A Vale-compatible implementation of the write-good linter.",
+        "description": "Naive linter for English prose for developers who can't write good and wanna learn to do other stuff good too.",
         "homepage": "https://github.com/errata-ai/write-good",
         "feed": "https://github.com/errata-ai/write-good/releases.atom",
+        "author": "jdkato"
+    },
+    {
+        "name": "Joblint",
+        "description": "Test tech job posts for issues with sexism, culture, expectations, and recruiter fails.",
+        "homepage": "https://github.com/errata-ai/Joblint",
+        "feed": "https://github.com/errata-ai/Joblint/releases.atom",
         "author": "jdkato"
     }
 ]
