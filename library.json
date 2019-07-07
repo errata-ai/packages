@@ -1,5 +1,21 @@
 [
     {
+        "name": "Google",
+        "description": "A Vale-compatible implementation of the Google Developer Documentation Style Guide.",
+        "homepage": "https://github.com/errata-ai/Google",
+        "feed": "https://github.com/errata-ai/Google/releases.atom",
+        "url": "https://github.com/errata-ai/Google/releases/latest/download/Google.zip",
+        "author": "jdkato"
+    },
+    {
+        "name": "Joblint",
+        "description": "Test tech job posts for issues with sexism, culture, expectations, and recruiter fails.",
+        "homepage": "https://github.com/errata-ai/Joblint",
+        "feed": "https://github.com/errata-ai/Joblint/releases.atom",
+        "url": "https://github.com/errata-ai/Joblint/releases/latest/download/Joblint.zip",
+        "author": "jdkato"
+    },
+    {
         "name": "Microsoft",
         "description": "A Vale-compatible implementation of the Microsoft Writing Style Guide.",
         "homepage": "https://github.com/errata-ai/Microsoft",
@@ -21,22 +37,6 @@
         "homepage": "https://github.com/errata-ai/write-good",
         "feed": "https://github.com/errata-ai/write-good/releases.atom",
         "url": "https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip",
-        "author": "jdkato"
-    },
-    {
-        "name": "Joblint",
-        "description": "Test tech job posts for issues with sexism, culture, expectations, and recruiter fails.",
-        "homepage": "https://github.com/errata-ai/Joblint",
-        "feed": "https://github.com/errata-ai/Joblint/releases.atom",
-        "url": "https://github.com/errata-ai/Joblint/releases/latest/download/Joblint.zip",
-        "author": "jdkato"
-    },
-    {
-        "name": "Google",
-        "description": "A Vale-compatible implementation of the Google Developer Documentation Style Guide.",
-        "homepage": "https://github.com/errata-ai/Google",
-        "feed": "https://github.com/errata-ai/Google/releases.atom",
-        "url": "https://github.com/errata-ai/Google/releases/latest/download/Google.zip",
         "author": "jdkato"
     }
 ]
