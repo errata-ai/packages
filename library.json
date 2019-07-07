@@ -30,5 +30,13 @@
         "feed": "https://github.com/errata-ai/Joblint/releases.atom",
         "url": "https://github.com/errata-ai/Joblint/releases/latest/download/Joblint.zip",
         "author": "jdkato"
+    },
+    {
+        "name": "Google",
+        "description": "A Vale-compatible implementation of the Google Developer Documentation Style Guide.",
+        "homepage": "https://github.com/errata-ai/Google",
+        "feed": "https://github.com/errata-ai/Google/releases.atom",
+        "url": "https://github.com/errata-ai/Google/releases/latest/download/Google.zip",
+        "author": "jdkato"
     }
 ]
