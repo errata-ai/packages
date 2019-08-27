@@ -28,6 +28,12 @@ This repository contains a library of all officially supported styles for Vale a
     </tr>
 </table>
 
+The benefits of using these styles over their original implementations include:
+
+- [X] [Improved support for markup](https://errata-ai.github.io/vale/formats/), including the ability to ignore code and target only certain sections of text (e.g., checking headers for a specific capitalization style).
+- [X] No need to install and configure npm (Node.js), pip (Python), or other language-specific tools. With Vale, you get all the functionality in a single, standalone binary available for Windows, macOS, and Linux.
+- [X] Easily combine, mismatch, or otherwise customize each style.
+
 ## Available styles
 
 <dl>
