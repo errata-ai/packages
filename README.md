@@ -1,10 +1,51 @@
 # Styles [![Build Status](https://travis-ci.org/errata-ai/styles.svg?branch=master)](https://travis-ci.org/errata-ai/styles)
 
-<p align="center">
-  <img width="75%" alt="dash" src="https://user-images.githubusercontent.com/8785025/60774954-0391b300-a0d1-11e9-8d92-1c97f5d07bf4.png">
-</p>
+This repository contains a library of all officially supported styles for Vale and Vale Server.
 
-This repository contains the library of all managed (i.e., searchable, installable, and updatable) styles for Vale Server.
+<table>
+    <tr>
+        <th>Vale</th>
+        <th>Vale Server</th>
+    </tr>
+    <tr>
+        <td width="50%">
+          <a href="https://user-images.githubusercontent.com/8785025/63803049-d7bccd80-c8c8-11e9-97fd-169631f80be9.png">
+                <img src="https://user-images.githubusercontent.com/8785025/63803049-d7bccd80-c8c8-11e9-97fd-169631f80be9.png" width="100%">
+            </a>
+        </td>
+        <td width="50%">
+            <a href="https://user-images.githubusercontent.com/8785025/60774954-0391b300-a0d1-11e9-8d92-1c97f5d07bf4.png">
+                <img src="https://user-images.githubusercontent.com/8785025/60774954-0391b300-a0d1-11e9-8d92-1c97f5d07bf4.png" width="100%">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+          <a href="https://github.com/errata-ai/vale">Vale</a> is an open-source, command-line linter for prose. It's fast, syntax-aware, and extensible.
+        </td>
+        <td width="50%">
+          <a href="https://errata.ai/vale-server/">Vale Server</a> is a commercial desktop application (macOS and Windows) that enhances and refines the Vale experience.
+    </tr>
+</table>
+
+## Available styles
+
+<dl>
+  <dt><a href="https://github.com/errata-ai/Microsoft"><code>Microsoft</code></a></dt>
+  <dd>An implementation of the <a href="https://docs.microsoft.com/en-us/style-guide/welcome/"><i>Microsoft Writing Style Guide</i></a>.</dd>
+
+  <dt><a href="https://github.com/errata-ai/Google"><code>Google</code></a></dt>
+  <dd>An implementation of the <a href="https://developers.google.com/style/"><i>Google Developer Documentation Style Guide</i></a>.</dd>
+
+  <dt><a href="https://github.com/errata-ai/write-good"><code>write-good</code></a></dt>
+  <dd>An implementation of the guidelines enforced by the <a href="https://github.com/btford/write-good"><code>write-good</code></a> linter.</dd>
+  
+  <dt><a href="https://github.com/errata-ai/proselint"><code>proselint</code></a></dt>
+  <dd>An implementation of the guidelines enforced by the <a href="https://github.com/amperser/proselint/"><code>proselint</code></a> linter.</dd>
+  
+  <dt><a href="https://github.com/errata-ai/Joblint"><code>Joblint</code></a></dt>
+  <dd>An implementation of the guidelines enforced by the <a href="https://github.com/rowanmanning/joblint"><code>Joblint</code></a> linter.</dd>
+</dl>
 
 ## Requirements
 
