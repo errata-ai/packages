@@ -59,19 +59,19 @@ All styles in this library must (1) be maintained in their own (dedicated) repos
 
 ```json5
 {
-  # Individual or organization maintaining the style:
+  // Individual or organization maintaining the style:
   "author": "...",
-  # A summary of the style's purpose:
+  // A summary of the style's purpose:
   "description": "...",
-  # An ATOM-formatted release feed (doesn't have to be hosted on GitHub)
+  // An ATOM-formatted release feed (doesn't have to be hosted on GitHub)
   "feed": "https://github.com/<USER>/<REPO>/releases.atom",
-  # A link to a website or repository for the style:
+  // A link to a website or repository for the style:
   "homepage": "...",
-  # The name of the style's license -- e.g., "MIT":
+  // The name of the style's license -- e.g., "MIT":
   "license": "...",
-  # A link to the latest release (doesn't have to be hosted on GitHub)
+  // A link to the latest release (doesn't have to be hosted on GitHub)
   "url": "https://github.com/<USER>/<REPO>/releases/latest/download/<NAME>.zip",
-  # The minimum required Vale version:
+  // The minimum required Vale version:
   "vale_version": "v1.0.0"
 }
 ```
