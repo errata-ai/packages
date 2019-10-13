@@ -10,22 +10,22 @@ This repository contains the library of all managed (i.e., searchable, installab
 
 All styles in this library must (1) be maintained in their own (dedicated) repository, (2) publish releases following [Semantic Versioning](https://semver.org/), and (3) include a `meta.json` file with the following structure:
 
-```json
+```json5
 {
+  # Individual or organization maintaining the style:
   "author": "...",
-  "description": "....",
-  "email": "...",
-  "lang": "en",
+  # A summary of the style's purpose:
+  "description": "...",
+  # An ATOM-formatted release feed (doesn't have to be hosted on GitHub)
   "feed": "https://github.com/<USER>/<REPO>/releases.atom",
-  "issues": "https://github.com/<USER>/<REPO>/issues/new",
-  "license": "MIT",
-  "name": "...",
+  # A link to a website or repository for the style:
+  "homepage": "...",
+  # The name of the style's license -- e.g., "MIT":
+  "license": "...",
+  # A link to the latest release (doesn't have to be hosted on GitHub)
   "url": "https://github.com/<USER>/<REPO>/releases/latest/download/<NAME>.zip",
-  "sources": [
-    "https://...",
-    "https://..."
-  ],
-  "vale_version": ">=1.0.0"
+  # The minimum required Vale version:
+  "vale_version": "v1.0.0"
 }
 ```
 
