@@ -3,40 +3,30 @@
         "name": "Google",
         "description": "A Vale-compatible implementation of the Google Developer Documentation Style Guide.",
         "homepage": "https://github.com/errata-ai/Google",
-        "feed": "https://github.com/errata-ai/Google/releases.atom",
-        "url": "https://github.com/errata-ai/Google/releases/latest/download/Google.zip",
-        "author": "jdkato"
+        "url": "https://github.com/errata-ai/Google/releases/latest/download/Google.zip"
     },
     {
         "name": "Joblint",
         "description": "Test tech job posts for issues with sexism, culture, expectations, and recruiter fails.",
         "homepage": "https://github.com/errata-ai/Joblint",
-        "feed": "https://github.com/errata-ai/Joblint/releases.atom",
-        "url": "https://github.com/errata-ai/Joblint/releases/latest/download/Joblint.zip",
-        "author": "jdkato"
+        "url": "https://github.com/errata-ai/Joblint/releases/latest/download/Joblint.zip"
     },
     {
         "name": "Microsoft",
         "description": "A Vale-compatible implementation of the Microsoft Writing Style Guide.",
         "homepage": "https://github.com/errata-ai/Microsoft",
-        "feed": "https://github.com/errata-ai/Microsoft/releases.atom",
-        "url": "https://github.com/errata-ai/Microsoft/releases/latest/download/Microsoft.zip",
-        "author": "jdkato"
+        "url": "https://github.com/errata-ai/Microsoft/releases/latest/download/Microsoft.zip"
     },
     {
         "name": "proselint",
         "description": "proselint places the world’s greatest writers and editors by your side, where they whisper suggestions on how to improve your prose.",
         "homepage": "https://github.com/errata-ai/proselint",
-        "feed": "https://github.com/errata-ai/proselint/releases.atom",
-        "url": "https://github.com/errata-ai/proselint/releases/latest/download/proselint.zip",
-        "author": "jdkato"
+        "url": "https://github.com/errata-ai/proselint/releases/latest/download/proselint.zip"
     },
     {
         "name": "write-good",
         "description": "Naive linter for English prose for developers who can't write good and wanna learn to do other stuff good too.",
         "homepage": "https://github.com/errata-ai/write-good",
-        "feed": "https://github.com/errata-ai/write-good/releases.atom",
-        "url": "https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip",
-        "author": "jdkato"
+        "url": "https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip"
     }
 ]

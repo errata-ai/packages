@@ -45,10 +45,10 @@ The benefits of using these styles over their original implementations include:
 
   <dt><a href="https://github.com/errata-ai/write-good"><code>write-good</code></a></dt>
   <dd>An implementation of the guidelines enforced by the <a href="https://github.com/btford/write-good"><code>write-good</code></a> linter.</dd>
-  
+
   <dt><a href="https://github.com/errata-ai/proselint"><code>proselint</code></a></dt>
   <dd>An implementation of the guidelines enforced by the <a href="https://github.com/amperser/proselint/"><code>proselint</code></a> linter.</dd>
-  
+
   <dt><a href="https://github.com/errata-ai/Joblint"><code>Joblint</code></a></dt>
   <dd>An implementation of the guidelines enforced by the <a href="https://github.com/rowanmanning/joblint"><code>Joblint</code></a> linter.</dd>
 </dl>
@@ -59,20 +59,14 @@ All styles in this library must (1) be maintained in their own (dedicated) repos
 
 ```json5
 {
-  // Individual or organization maintaining the style:
-  "author": "...",
-  // A summary of the style's purpose:
-  "description": "...",
-  // An ATOM-formatted release feed (doesn't have to be hosted on GitHub)
-  "feed": "https://github.com/<USER>/<REPO>/releases.atom",
-  // A link to a website or repository for the style:
-  "homepage": "...",
-  // The name of the style's license -- e.g., "MIT":
-  "license": "...",
-  // A link to the latest release (doesn't have to be hosted on GitHub)
-  "url": "https://github.com/<USER>/<REPO>/releases/latest/download/<NAME>.zip",
+  // An Atom-formatted release feed:
+  //
+  // e.g., https://github.com/<USER>/<REPO>/releases.atom
+  "feed": "...",
   // The minimum required Vale version:
-  "vale_version": "v1.0.0"
+  //
+  // e.g., v1.0.0
+  "vale_version": "..."
 }
 ```
 
