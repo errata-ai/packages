@@ -1,5 +1,11 @@
 [
     {
+        "name": "CockroachDB",
+        "Description": "A Vale-compatible implementation of the CockroachDB style guide",
+        "homepage": "https://github.com/testthedocs/vale-styles/tree/master/CockroachDB",
+        "url": "https://github.com/testthedocs/vale-styles/blob/master/CockroachDB/CockroachDB.zip"
+    },
+    {
         "name": "Google",
         "description": "A Vale-compatible implementation of the Google Developer Documentation Style Guide.",
         "homepage": "https://github.com/errata-ai/Google",
