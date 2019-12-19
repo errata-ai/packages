@@ -59,14 +59,22 @@ All styles in this library must (1) be maintained in their own (dedicated) repos
 
 ```json5
 {
+  "author": "...",
+  "description": "....",
+  "email": "...",
+  "lang": "en",
   // An Atom-formatted release feed:
-  //
-  // e.g., https://github.com/<USER>/<REPO>/releases.atom
-  "feed": "...",
+  "feed": "https://github.com/<USER>/<REPO>/releases.atom",
+  "issues": "https://github.com/<USER>/<REPO>/issues/new",
+  "license": "MIT",
+  "name": "...",
+  "url": "https://github.com/<USER>/<REPO>/releases/latest/download/<NAME>.zip",
+  "sources": [
+    "https://...",
+    "https://..."
+  ],
   // The minimum required Vale version:
-  //
-  // e.g., v1.0.0
-  "vale_version": "..."
+  "vale_version": ">=1.0.0"
 }
 ```
 
