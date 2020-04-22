@@ -33,6 +33,6 @@
         "name": "CockroachDB",
         "description": "A Vale-compatible implementation of the CockroachDB style guie",
         "homepage": "https://github.com/testthedocs/CockroachDB",
-        "url": "https://github.com/testthedocs/CockroachDB/archive/master.zip"
+        "url": "https://github.com/testthedocs/CockroachDB/releases/latest/download/CockroachDB.zip"
     }
 ]
