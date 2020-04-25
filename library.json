@@ -28,5 +28,11 @@
         "description": "Naive linter for English prose for developers who can't write good and wanna learn to do other stuff good too.",
         "homepage": "https://github.com/errata-ai/write-good",
         "url": "https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip"
+    },
+        {
+        "name": "CockroachDB",
+        "description": "A Vale-compatible implementation of the CockroachDB style guie",
+        "homepage": "https://github.com/testthedocs/CockroachDB",
+        "url": "https://github.com/testthedocs/CockroachDB/releases/latest/download/CockroachDB.zip"
     }
 ]
