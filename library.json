@@ -28,5 +28,11 @@
         "description": "Naive linter for English prose for developers who can't write good and wanna learn to do other stuff good too.",
         "homepage": "https://github.com/errata-ai/write-good",
         "url": "https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip"
+    },
+    {
+        "name": "alex",
+        "description": "Catch insensitive, inconsiderate writing.",
+        "homepage": "https://github.com/errata-ai/alex",
+        "url": "https://github.com/errata-ai/alex/releases/latest/download/alex.zip"
     }
 ]
