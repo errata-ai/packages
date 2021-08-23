@@ -52,7 +52,7 @@ The benefits of using these styles over their original implementations include:
   <dt><a href="https://github.com/errata-ai/Joblint"><code>Joblint</code></a></dt>
   <dd>An implementation of the guidelines enforced by the <a href="https://github.com/rowanmanning/joblint"><code>Joblint</code></a> linter.</dd>
 
-  <dt><a href="https://github.com/errata-ai/alex"><code>Joblint</code></a></dt>
+  <dt><a href="https://github.com/errata-ai/alex"><code>alex</code></a></dt>
   <dd>An implementation of the guidelines enforced by the <a href="https://github.com/get-alex/alex"><code>alex</code></a> linter.</dd>
 </dl>
 
