@@ -34,5 +34,11 @@
         "description": "Catch insensitive, inconsiderate writing.",
         "homepage": "https://github.com/errata-ai/alex",
         "url": "https://github.com/errata-ai/alex/releases/latest/download/alex.zip"
+    },
+    {
+        "name": "Readability",
+        "description": "Vale-compatible implementations of many popular readability metrics.",
+        "homepage": "https://github.com/errata-ai/Readability",
+        "url": "https://github.com/errata-ai/Readability/releases/latest/download/Readability.zip"
     }
 ]

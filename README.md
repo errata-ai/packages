@@ -54,6 +54,9 @@ The benefits of using these styles over their original implementations include:
 
   <dt><a href="https://github.com/errata-ai/alex"><code>alex</code></a></dt>
   <dd>An implementation of the guidelines enforced by the <a href="https://github.com/get-alex/alex"><code>alex</code></a> linter.</dd>
+
+  <dt><a href="https://github.com/errata-ai/readability"><code>Readability</code></a></dt>
+  <dd>An implementations of many popular "readability" metrics.</dd>
 </dl>
 
 ## Requirements
