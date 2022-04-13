@@ -40,5 +40,11 @@
         "description": "Vale-compatible implementations of many popular readability metrics.",
         "homepage": "https://github.com/errata-ai/Readability",
         "url": "https://github.com/errata-ai/Readability/releases/latest/download/Readability.zip"
+    },
+    {
+        "name": "Hugo",
+        "description": "Adds support for Hugo shortcodes and other non-standard markup.",
+        "homepage": "https://github.com/errata-ai/Hugo",
+        "url": "https://github.com/errata-ai/Hugo/releases/latest/download/Hugo.zip"
     }
 ]
