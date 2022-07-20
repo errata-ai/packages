@@ -46,5 +46,11 @@
         "description": "Adds support for Hugo shortcodes and other non-standard markup.",
         "homepage": "https://github.com/errata-ai/Hugo",
         "url": "https://github.com/errata-ai/Hugo/releases/latest/download/Hugo.zip"
+    },
+    {
+        "name": "RedHat",
+        "description": "Language rules suitable for documentation in Open Source projects and mandatory for Red Hat products.",
+        "homepage": "https://redhat-documentation.github.io/vale-at-red-hat/docs/user-guide/redhat-style-for-vale/",
+        "url": "https://github.com/redhat-documentation/vale-at-red-hat/releases/latest/download/RedHat.zip"
     }
 ]
