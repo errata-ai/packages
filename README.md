@@ -24,13 +24,13 @@ This repository contains a library of all officially supported styles for Vale a
           <a href="https://github.com/errata-ai/vale">Vale</a> is an open-source, command-line linter for prose. It's fast, syntax-aware, and extensible.
         </td>
         <td width="50%">
-          <a href="https://errata.ai/vale-server/">Vale Server</a> is a commercial desktop application (macOS and Windows) that enhances and refines the Vale experience.
+          <a href="https://github.com/errata-ai/vale-server">Vale Server</a> was a commercial desktop application (macOS and Windows) that enhanced and refined the Vale experience.
     </tr>
 </table>
 
 The benefits of using these styles over their original implementations include:
 
-- [X] [Improved support for markup](https://errata-ai.github.io/vale/formats/), including the ability to ignore code and target only certain sections of text (e.g., checking headers for a specific capitalization style).
+- [X] [Improved support for markup](https://vale.sh/docs/topics/scoping/), including the ability to ignore code and target only certain sections of text (e.g., checking headers for a specific capitalization style).
 - [X] No need to install and configure npm (Node.js), pip (Python), or other language-specific tools. With Vale, you get all the functionality in a single, standalone binary available for Windows, macOS, and Linux.
 - [X] Easily combine, mismatch, or otherwise customize each style.
 
