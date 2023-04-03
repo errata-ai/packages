@@ -19,13 +19,13 @@
     },
     {
         "name": "proselint",
-        "description": "proselint places the world’s greatest writers and editors by your side, where they whisper suggestions on how to improve your prose.",
+        "description": "proselint places the world’s greatest writers and editors by your side.",
         "homepage": "https://github.com/errata-ai/proselint",
         "url": "https://github.com/errata-ai/proselint/releases/latest/download/proselint.zip"
     },
     {
         "name": "write-good",
-        "description": "Naive linter for English prose for developers who can't write good and wanna learn to do other stuff good too.",
+        "description": "Naive linter for English prose for developers who can't write good.",
         "homepage": "https://github.com/errata-ai/write-good",
         "url": "https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip"
     },
@@ -49,7 +49,7 @@
     },
     {
         "name": "RedHat",
-        "description": "Language rules suitable for documentation in Open Source projects and mandatory for Red Hat products.",
+        "description": "A Vale-compatible implementation of the Red Hat Supplementary Style Guide.",
         "homepage": "https://redhat-documentation.github.io/vale-at-red-hat/docs/user-guide/redhat-style-for-vale/",
         "url": "https://github.com/redhat-documentation/vale-at-red-hat/releases/latest/download/RedHat.zip"
     }
