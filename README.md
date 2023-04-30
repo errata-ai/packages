@@ -1,34 +1,6 @@
 # Styles [![Build Status](https://travis-ci.org/errata-ai/styles.svg?branch=master)](https://travis-ci.org/errata-ai/styles)
 
-This repository contains a library of all officially supported styles for Vale and Vale Server.
-
-<table>
-    <tr>
-        <th>Vale</th>
-        <th>Vale Server</th>
-    </tr>
-    <tr>
-        <td width="50%">
-          <a href="https://user-images.githubusercontent.com/8785025/63803049-d7bccd80-c8c8-11e9-97fd-169631f80be9.png">
-                <img src="https://user-images.githubusercontent.com/8785025/63803049-d7bccd80-c8c8-11e9-97fd-169631f80be9.png" width="100%">
-            </a>
-        </td>
-        <td width="50%">
-            <a href="https://user-images.githubusercontent.com/8785025/60774954-0391b300-a0d1-11e9-8d92-1c97f5d07bf4.png">
-                <img src="https://user-images.githubusercontent.com/8785025/60774954-0391b300-a0d1-11e9-8d92-1c97f5d07bf4.png" width="100%">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">
-          <a href="https://github.com/errata-ai/vale">Vale</a> is an open-source, command-line linter for prose. It's fast, syntax-aware, and extensible.
-        </td>
-        <td width="50%">
-          <a href="https://github.com/errata-ai/vale-server">Vale Server</a> was a commercial desktop application (macOS and Windows) that enhanced and refined the Vale experience.
-    </tr>
-</table>
-
-The benefits of using these styles over their original implementations include:
+This repository contains a library of all officially supported styles for Vale. The benefits of using these styles over their original implementations include:
 
 - [X] [Improved support for markup](https://vale.sh/docs/topics/scoping/), including the ability to ignore code and target only certain sections of text (e.g., checking headers for a specific capitalization style).
 - [X] No need to install and configure npm (Node.js), pip (Python), or other language-specific tools. With Vale, you get all the functionality in a single, standalone binary available for Windows, macOS, and Linux.
