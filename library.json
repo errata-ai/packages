@@ -52,5 +52,17 @@
         "description": "A Vale-compatible implementation of the Red Hat Supplementary Style Guide.",
         "homepage": "https://redhat-documentation.github.io/vale-at-red-hat/docs/user-guide/redhat-style-for-vale/",
         "url": "https://github.com/redhat-documentation/vale-at-red-hat/releases/latest/download/RedHat.zip"
+    },
+    {
+        "name": "AsciiDoc",
+        "description": "A Vale-compatible implementation of select AsciiDoc syntax rules.",
+        "homepage": "https://redhat-documentation.github.io/vale-at-red-hat/docs/main/user-guide/asciidoc-style-for-vale/",
+        "url": "https://github.com/redhat-documentation/vale-at-red-hat/releases/latest/download/AsciiDoc.zip"
+    },
+    {
+        "name": "OpenShiftAsciiDoc",
+        "description": "A Vale-compatible implementation of select AsciiDoc guidance from the OpenShift docs contributor guidelines.",
+        "homepage": "https://redhat-documentation.github.io/vale-at-red-hat/docs/main/user-guide/openshift-asciidoc-style-for-vale/",
+        "url": "https://github.com/redhat-documentation/vale-at-red-hat/releases/latest/download/OpenShiftAsciiDoc.zip"
     }
 ]
