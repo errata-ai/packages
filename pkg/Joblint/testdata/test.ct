@@ -1,4 +1,4 @@
-$ cdf ${ROOTDIR}/Basic
+$ cdf ${ROOTDIR}/basic
 $ vale --output=line --sort --normalize --relative --no-exit fail.md pass.md real.md
 fail.md:3:21:Joblint.Profanity:Remove 'fucking'
 fail.md:3:37:Joblint.TechTerms:Use 'JavaScript' instead of 'java script'

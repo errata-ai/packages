@@ -1,4 +1,4 @@
-# Styles [![Build Status](https://travis-ci.org/errata-ai/styles.svg?branch=master)](https://travis-ci.org/errata-ai/styles)
+# Styles 
 
 This repository contains a library of all officially supported styles for Vale. The benefits of using these styles over their original implementations include:
 

@@ -1,4 +1,4 @@
-$ cdf ${ROOTDIR}/Basic
+$ cdf ${ROOTDIR}/basic
 $ vale --output=line --sort --normalize --relative --no-exit test.md
 test.md:1:19:proselint.Nonwords:Consider using 'regardless' instead of 'irregardless'.
 test.md:3:18:proselint.Archaisms:'perchance' is archaic.
@@ -35,7 +35,7 @@ test.md:51:27:proselint.Diacritical:Consider using 'Beyoncé' instead of 'Beyonc
 test.md:51:36:proselint.P-Value:You should use more decimal places, unless 'p = 0.00' is really true.
 test.md:51:47:proselint.Needless:Prefer 'abolition' over 'abolishment'
 
-$ cdf ${ROOTDIR}/Punctuation
+$ cdf ${ROOTDIR}/punctuation
 $ vale --output=line --sort --normalize --relative --no-exit test.md
 test.md:3:17:proselint.Hyperbole:'idea!!' is hyperbolic.
 test.md:8:23:proselint.Hyperbole:'here!!' is hyperbolic.
