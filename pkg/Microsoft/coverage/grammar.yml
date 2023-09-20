@@ -1,0 +1,31 @@
+dangling-and-misplaced-modifiers: false
+
+# If you’re not sure whether a term is a proper noun (and thus capitalized) or
+# a common noun (lowercase), check The American Heritage Dictionary and the A–Z
+# word list. Default to lowercase unless there's a compelling reason to
+# capitalize the term.
+capitalization-and-proper-nouns: false
+
+# To check the spelling of plural forms of words derived from Latin and Greek
+# that retain their Latin or Greek endings (typically -a, -us, -um, -on, -ix,
+# or -ex), see specific entries in the A–Z word list and The American Heritage
+# Dictionary.
+plural-nouns: false
+
+# Gender.yml, Vocab.yml
+pronouns-and-gender: True
+
+noun-and-pronoun-agreement: false
+words-ending-in-ing: false
+
+# FirstPerson.yml
+use-first-person-sparingly: true
+# We.yml
+avoid-first-person-plural: true
+
+prepositional-phrases: false
+
+# Passive.yml
+active-and-passive-voice: true
+
+verb-agreement: false

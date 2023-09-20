@@ -1,0 +1,5 @@
+# Headings.yml
+sentence-style-capitalization: true
+
+capitalize-the-first-word: false
+uppercase-for-emphasis: false

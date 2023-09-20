@@ -1,0 +1,14 @@
+product-or-feature-names: false
+audience-is-familiar: false
+
+# Acronyms.yml
+spell-out-the-term: true
+
+just-once: false
+
+# HeadingAcronyms.yml
+titles-and-headings: true
+
+lowercase-the-spelled-out-term: false
+a-or-an: false
+possessive-form: false

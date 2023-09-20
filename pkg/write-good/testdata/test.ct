@@ -1,0 +1,34 @@
+$ cdf ${ROOTDIR}/Cliches
+$ vale --output=line --sort --normalize --relative test.md
+test.md:3:6:write-good.Cliches:Try to avoid using clichés like 'a fine kettle of fish'.
+
+$ cdf ${ROOTDIR}/E-Prime
+$ vale --output=line --sort --normalize --relative test.md
+test.md:3:1:write-good.E-Prime:Try to avoid using 'Here's'.
+test.md:6:1:write-good.E-Prime:Try to avoid using 'It's'.
+
+$ cdf ${ROOTDIR}/Illusions
+$ vale --output=line --sort --normalize --relative test.md test.rst
+test.md:1:1:write-good.Illusions:'the' is repeated!
+test.rst:1:1:write-good.Illusions:'foo' is repeated!
+
+$ cdf ${ROOTDIR}/Passive
+$ vale --output=line --sort --normalize --relative test.md
+test.md:3:11:write-good.Passive:'was defeated' may be passive voice. Use active voice if you can.
+
+$ cdf ${ROOTDIR}/So
+$ vale --output=line --sort --normalize --relative --no-exit test.md
+test.md:3:1:write-good.So:Don't start a sentence with 'So,'.
+
+$ cdf ${ROOTDIR}/ThereIs
+$ vale --output=line --sort --normalize --relative --no-exit test.md
+test.md:3:1:write-good.ThereIs:Don't start a sentence with 'There is'.
+test.md:5:1:write-good.ThereIs:Don't start a sentence with 'There are'.
+
+$ cdf ${ROOTDIR}/TooWordy
+$ vale --output=line --sort --normalize --relative test.md
+test.md:3:11:write-good.TooWordy:'a number of' is too wordy.
+
+$ cdf ${ROOTDIR}/Weasel
+$ vale --output=line --sort --normalize --relative test.md
+test.md:3:9:write-good.Weasel:'very' is a weasel word!

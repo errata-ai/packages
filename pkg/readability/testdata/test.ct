@@ -1,0 +1,7 @@
+$ cdf ${ROOTDIR}/LIX
+$ vale --output=line --sort --normalize --relative test.md
+test.md:1:1:Readability.LIX:Try to keep the LIX score (38.27) below 35.
+
+$ cdf ${ROOTDIR}/ColemanLiau
+$ vale --output=line --sort --normalize --relative test.md
+test.md:1:1:Readability.ColemanLiau:Try to keep the Coleman–Liau Index grade (9.58) below 9.

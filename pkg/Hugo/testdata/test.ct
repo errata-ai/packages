@@ -1,0 +1,14 @@
+$ cdf ${ROOTDIR}/shortcodes
+$ vale --output=line --sort --normalize --relative --no-exit test.md
+test.md:1:3:Vale.Spelling:Did you really mean 'Shortcodes'?
+test.md:3:3:Vale.Spelling:Did you really mean 'Shortcodes'?
+test.md:8:1:Vale.Spelling:Did you really mean 'Shortcodes'?
+test.md:12:1:Vale.Spelling:Did you really mean 'Shortcodes'?
+test.md:17:1:Vale.Spelling:Did you really mean 'Shortcodes'?
+test.md:21:1:Vale.Spelling:Did you really mean 'Shortcodes'?
+test.md:25:1:Vale.Spelling:Did you really mean 'Shortcodes'?
+test.md:38:1:Vale.Spelling:Did you really mean 'Shortcodes'?
+test.md:42:1:Vale.Spelling:Did you really mean 'Shortcodes'?
+test.md:46:1:Vale.Spelling:Did you really mean 'hidecaption'?
+test.md:50:1:Vale.Spelling:Did you really mean 'Shortcodes'?
+test.md:54:1:Vale.Spelling:Did you really mean 'Shortcodes'?

@@ -1,0 +1,22 @@
+zero-through-nine: false
+
+# Percentages.yml
+percentages: true
+
+# Units.yml
+measurements: true
+
+commas-in-numbers: false
+
+# DateNumbers.yml, DateOrder.yml
+numbers-in-dates: true
+
+# Negative.yml
+negative-numbers: true
+
+# Ordinal.yml
+ordinal-numbers: true
+
+# Ranges.yml, RangeFormat.yml, RangeTime.yml
+ranges-of-numbers: true
+

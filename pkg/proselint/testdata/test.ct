@@ -1,0 +1,42 @@
+$ cdf ${ROOTDIR}/Basic
+$ vale --output=line --sort --normalize --relative --no-exit test.md
+test.md:1:19:proselint.Nonwords:Consider using 'regardless' instead of 'irregardless'.
+test.md:3:18:proselint.Archaisms:'perchance' is archaic.
+test.md:7:6:proselint.Cliches:'a chip off the old block' is a cliche.
+test.md:9:12:proselint.Cliches:'a fate worse than death' is a cliche.
+test.md:11:20:proselint.Spelling:Inconsistent spelling of 'color'.
+test.md:11:61:proselint.Spelling:Inconsistent spelling of 'center'.
+test.md:13:9:proselint.CorporateSpeak:'circle back around' is corporate speak.
+test.md:15:5:proselint.Cursing:Consider replacing 'shit'.
+test.md:17:16:proselint.DateCase:With lowercase letters, the periods are standard.
+test.md:17:37:proselint.DateSpacing:It's standard to put a space before '7a.m.'
+test.md:17:58:proselint.DateMidnight:Use 'midnight' or 'noon'.
+test.md:17:81:proselint.DateRedundancy:'a.m.' is always morning; 'p.m.' is always night.
+test.md:19:18:proselint.Uncomparables:'most correct' is not comparable
+test.md:21:1:proselint.Hedging:'I would argue that' is hedging.
+test.md:23:4:proselint.Hyperbole:'exaggerated!!!' is hyperbolic.
+test.md:25:14:proselint.Jargon:'in the affirmative' is jargon.
+test.md:29:14:proselint.LGBTOffensive:'fag' is offensive. Remove it or consider the context.
+test.md:29:44:proselint.LGBTTerms:Consider using 'sexual orientation' instead of 'sexual preference'.
+test.md:31:10:proselint.Malapropisms:'the Infinitesimal Universe' is a malapropism.
+test.md:33:1:proselint.Apologizing:Excessive apologizing: 'More research is needed'
+test.md:35:1:proselint.But:Do not start a paragraph with a 'but'.
+test.md:37:9:proselint.Currency:Incorrect use of symbols in '$10 dollars'.
+test.md:39:14:proselint.Oxymorons:'exact estimate' is an oxymoron.
+test.md:41:38:proselint.GenderBias:Consider using 'lawyer' instead of 'lady lawyer'.
+test.md:43:11:proselint.Skunked:'impassionate' is a bit of a skunked term — impossible to use without issue.
+test.md:45:21:proselint.DenizenLabels:Did you mean 'Hong Konger'?
+test.md:47:13:proselint.AnimalLabels:Consider using 'avine' instead of 'bird-like'.
+test.md:49:20:proselint.Typography:Consider using the '©' symbol instead of '(C)'.
+test.md:49:40:proselint.Typography:Consider using the '™' symbol instead of '(tm)'.
+test.md:49:56:proselint.Typography:Consider using the '®' symbol instead of '(R)'.
+test.md:49:79:proselint.Typography:Consider using the '×' symbol instead of '2 x 2'.
+test.md:51:27:proselint.Diacritical:Consider using 'Beyoncé' instead of 'Beyonce'.
+test.md:51:36:proselint.P-Value:You should use more decimal places, unless 'p = 0.00' is really true.
+test.md:51:47:proselint.Needless:Prefer 'abolition' over 'abolishment'
+
+$ cdf ${ROOTDIR}/Punctuation
+$ vale --output=line --sort --normalize --relative --no-exit test.md
+test.md:3:17:proselint.Hyperbole:'idea!!' is hyperbolic.
+test.md:8:23:proselint.Hyperbole:'here!!' is hyperbolic.
+test.md:12:14:proselint.DateCase:With lowercase letters, the periods are standard.
