@@ -64,5 +64,11 @@
         "description": "A Vale-compatible implementation of select AsciiDoc guidance from the OpenShift docs contributor guidelines.",
         "homepage": "https://redhat-documentation.github.io/vale-at-red-hat/docs/main/user-guide/openshift-asciidoc-style-for-vale/",
         "url": "https://github.com/redhat-documentation/vale-at-red-hat/releases/latest/download/OpenShiftAsciiDoc.zip"
+    },
+    {
+        "name": "SUSE",
+        "description": "A Vale-compatible implementation of the SUSE Documentation Style Guide.",
+        "homepage": "https://documentation.suse.com/style/current/html/docu_styleguide/",
+        "url": "https://github.com/openSUSE/suse-vale-styleguide"
     }
 ]
