@@ -1,3 +1,0 @@
-$ cdf ${ROOTDIR}/basic
-$ vale --output=line --sort --normalize --relative --no-exit fail.md pass.md
-fail.md:3:21:alex.ProfanityLikely:Don't use 'fucking', it's profane.
