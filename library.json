@@ -48,6 +48,12 @@
         "url": "https://github.com/errata-ai/Hugo/releases/latest/download/Hugo.zip"
     },
     {
+        "name": "MDX",
+        "description": "Adds support for MDX comments and other non-standard markup.",
+        "homepage": "https://github.com/errata-ai/MDX",
+        "url": "https://github.com/errata-ai/MDX/releases/latest/download/MDX.zip"
+    },
+    {
         "name": "RedHat",
         "description": "A Vale-compatible implementation of the Red Hat Supplementary Style Guide.",
         "homepage": "https://redhat-documentation.github.io/vale-at-red-hat/docs/user-guide/redhat-style-for-vale/",
