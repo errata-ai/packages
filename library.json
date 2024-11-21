@@ -92,7 +92,7 @@
     {
         "name": "RedHat",
         "description": "A Vale-compatible implementation of the Red Hat Supplementary Style Guide.",
-        "homepage": "https://redhat-documentation.github.io/vale-at-red-hat/docs/user-guide/redhat-style-for-vale/",
+        "homepage": "https://redhat-documentation.github.io/vale-at-red-hat/docs/main/user-guide/redhat-style-for-vale/",
         "url": "https://github.com/redhat-documentation/vale-at-red-hat/releases/latest/download/RedHat.zip",
         "logo": "https://github.com/redhat-documentation.png",
         "tags": [
