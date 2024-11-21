@@ -3,72 +3,84 @@
         "name": "Google",
         "description": "A Vale-compatible implementation of the Google Developer Documentation Style Guide.",
         "homepage": "https://github.com/errata-ai/Google",
-        "url": "https://github.com/errata-ai/Google/releases/latest/download/Google.zip"
+        "url": "https://github.com/errata-ai/Google/releases/latest/download/Google.zip",
+        "logo": "https://github.com/google.png"
     },
     {
         "name": "Joblint",
         "description": "Test tech job posts for issues with sexism, culture, expectations, and recruiter fails.",
         "homepage": "https://github.com/errata-ai/Joblint",
-        "url": "https://github.com/errata-ai/Joblint/releases/latest/download/Joblint.zip"
+        "url": "https://github.com/errata-ai/Joblint/releases/latest/download/Joblint.zip",
+        "logo": "https://github.com/npm.png"
     },
     {
         "name": "Microsoft",
         "description": "A Vale-compatible implementation of the Microsoft Writing Style Guide.",
         "homepage": "https://github.com/errata-ai/Microsoft",
-        "url": "https://github.com/errata-ai/Microsoft/releases/latest/download/Microsoft.zip"
+        "url": "https://github.com/errata-ai/Microsoft/releases/latest/download/Microsoft.zip",
+        "logo": "https://github.com/microsoft.png"
     },
     {
         "name": "proselint",
         "description": "proselint places the world’s greatest writers and editors by your side.",
         "homepage": "https://github.com/errata-ai/proselint",
-        "url": "https://github.com/errata-ai/proselint/releases/latest/download/proselint.zip"
+        "url": "https://github.com/errata-ai/proselint/releases/latest/download/proselint.zip",
+        "logo": "https://github.com/amperser.png"
     },
     {
         "name": "write-good",
         "description": "Naive linter for English prose for developers who can't write good.",
         "homepage": "https://github.com/errata-ai/write-good",
-        "url": "https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip"
+        "url": "https://github.com/errata-ai/write-good/releases/latest/download/write-good.zip",
+        "logo": "https://github.com/npm.png"
     },
     {
         "name": "alex",
         "description": "Catch insensitive, inconsiderate writing.",
         "homepage": "https://github.com/errata-ai/alex",
-        "url": "https://github.com/errata-ai/alex/releases/latest/download/alex.zip"
+        "url": "https://github.com/errata-ai/alex/releases/latest/download/alex.zip",
+        "logo": "https://github.com/get-alex.png"
     },
     {
         "name": "Readability",
         "description": "Vale-compatible implementations of many popular readability metrics.",
         "homepage": "https://github.com/errata-ai/Readability",
-        "url": "https://github.com/errata-ai/Readability/releases/latest/download/Readability.zip"
+        "url": "https://github.com/errata-ai/Readability/releases/latest/download/Readability.zip",
+        "logo": "https://github.com/errata-ai.png"
     },
     {
         "name": "Hugo",
         "description": "Adds support for Hugo shortcodes and other non-standard markup.",
         "homepage": "https://github.com/errata-ai/Hugo",
-        "url": "https://github.com/errata-ai/Hugo/releases/latest/download/Hugo.zip"
+        "url": "https://github.com/errata-ai/Hugo/releases/latest/download/Hugo.zip",
+        "logo": "https://github.com/gohugoio.png"
     },
     {
         "name": "MDX",
         "description": "Adds support for MDX comments and other non-standard markup.",
         "homepage": "https://github.com/errata-ai/MDX",
-        "url": "https://github.com/errata-ai/MDX/releases/latest/download/MDX.zip"
+        "url": "https://github.com/errata-ai/MDX/releases/latest/download/MDX.zip",
+        "logo": "https://github.com/errata-ai.png"
     },
     {
         "name": "RedHat",
         "description": "A Vale-compatible implementation of the Red Hat Supplementary Style Guide.",
         "homepage": "https://redhat-documentation.github.io/vale-at-red-hat/docs/user-guide/redhat-style-for-vale/",
-        "url": "https://github.com/redhat-documentation/vale-at-red-hat/releases/latest/download/RedHat.zip"
+        "url": "https://github.com/redhat-documentation/vale-at-red-hat/releases/latest/download/RedHat.zip",
+        "logo": "https://github.com/redhat-documentation.png"
     },
     {
         "name": "AsciiDoc",
         "description": "A Vale-compatible implementation of select AsciiDoc syntax rules.",
         "homepage": "https://redhat-documentation.github.io/vale-at-red-hat/docs/main/user-guide/asciidoc-style-for-vale/",
-        "url": "https://github.com/redhat-documentation/vale-at-red-hat/releases/latest/download/AsciiDoc.zip"
+        "url": "https://github.com/redhat-documentation/vale-at-red-hat/releases/latest/download/AsciiDoc.zip",
+        "logo": "https://github.com/redhat-documentation.png"
     },
     {
         "name": "OpenShiftAsciiDoc",
         "description": "A Vale-compatible implementation of select AsciiDoc guidance from the OpenShift docs contributor guidelines.",
         "homepage": "https://redhat-documentation.github.io/vale-at-red-hat/docs/main/user-guide/openshift-asciidoc-style-for-vale/",
-        "url": "https://github.com/redhat-documentation/vale-at-red-hat/releases/latest/download/OpenShiftAsciiDoc.zip"
+        "url": "https://github.com/redhat-documentation/vale-at-red-hat/releases/latest/download/OpenShiftAsciiDoc.zip",
+        "logo": "https://github.com/redhat-documentation.png"
     }
 ]
