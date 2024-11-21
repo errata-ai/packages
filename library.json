@@ -60,7 +60,7 @@
         "description": "Adds support for MDX comments and other non-standard markup.",
         "homepage": "https://github.com/errata-ai/MDX",
         "url": "https://github.com/errata-ai/MDX/releases/latest/download/MDX.zip",
-        "logo": "https://github.com/errata-ai.png"
+        "logo": "https://github.com/mdx-js.png"
     },
     {
         "name": "RedHat",
