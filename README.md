@@ -31,19 +31,6 @@ This repository contains a library of all officially supported styles for Vale. 
   <dd>An implementations of many popular "readability" metrics.</dd>
 </dl>
 
-## Requirements
-
-All styles in this library must (1) be maintained in their own (dedicated) repository, (2) publish releases following [Semantic Versioning](https://semver.org/), and (3) include a `meta.json` file with the following structure:
-
-```json
-{
-  "feed": "...",
-  "vale_version": "..."
-}
-```
-
-where `feed` is an Atom-formatted release feed (e.g., `https://github.com/<USER>/<REPO>/releases.atom`) and `vale_version` is the minimum required Vale version (e.g., `v1.0.0`).
-
 ## Submitting a style
 
-Fork this repo, add an entry (in alphabetical order) to the [`library.json`](https://github.com/errata-ai/styles/blob/master/library.json) file, and submit a PR.
+Fork this repo, add an entry to the [`library.json`](https://github.com/errata-ai/styles/blob/master/library.json) file, and submit a PR.
