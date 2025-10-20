@@ -118,5 +118,15 @@
         "tags": [
             "style"
         ]
+    },
+    {
+        "name": "Elastic",
+        "description": "Elastic Docs' style guide rules for the Vale linter.",
+        "homepage": "https://github.com/elastic/vale-rules",
+        "url": "https://github.com/redhat-documentation/vale-at-red-hat/releases/latest/download/OpenShiftAsciiDoc.zip",
+        "logo": "https://github.com/elastic.png",
+        "tags": [
+            "style"
+        ]
     }
 ]
